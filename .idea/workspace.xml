@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f643fa5f-81b6-43b8-a9ab-4e7893b7a94b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/models/todo.js" afterPath="$PROJECT_DIR$/js/models/todo.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/views/todo-view.js" afterPath="$PROJECT_DIR$/js/views/todo-view.js" />
     </list>
     <ignored path="ud989-todo-app.iws" />
@@ -60,8 +58,8 @@
       <file leaf-file-name="todo-view.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/views/todo-view.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46330276">
-              <caret line="53" column="73" selection-start-line="53" selection-start-column="73" selection-end-line="53" selection-end-column="73" />
+            <state vertical-scroll-proportion="0.22247706">
+              <caret line="70" column="54" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -455,8 +453,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/views/todo-view.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46330276">
-          <caret line="53" column="73" selection-start-line="53" selection-start-column="73" selection-end-line="53" selection-end-column="73" />
+        <state vertical-scroll-proportion="0.22247706">
+          <caret line="70" column="54" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
