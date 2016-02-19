@@ -1,4 +1,4 @@
-***PRACTICE***
+***PRACTICE: Backbone.js and MV* design***
 # ud989-todo-app
 Practice learning a new code base w/o receiving any prior info about what frameworks/libraries are involved.
 
